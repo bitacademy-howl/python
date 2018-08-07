@@ -1,0 +1,1 @@
+from collect.api.fetcher import fetch_data

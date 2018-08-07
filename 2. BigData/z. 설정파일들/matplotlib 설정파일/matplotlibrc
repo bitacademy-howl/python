@@ -1,0 +1,6 @@
+backend      : TkAgg
+font.family         : Malgun Gothic
+
+axes.unicode_minus  : False     ## use unicode for the minus symbol
+xtick.labelsize      : x-small ## fontsize of the tick labels
+ytick.labelsize      : x-small ## fontsize of the tick labels
